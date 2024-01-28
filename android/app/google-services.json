@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43141108522",
+    "project_id": "goggle-login-a34e9",
+    "storage_bucket": "goggle-login-a34e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43141108522:android:5bcccdc7630e147e50c453",
+        "android_client_info": {
+          "package_name": "com.g.login_with_goggle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUwV2EID8z9wf1xL906RDHHE3GFyLLmj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
